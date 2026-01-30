@@ -4,3 +4,4 @@ feature AAAA.txt
 feature2 AAAA.txt
 feature3 AAAA.txt
 feature4 AAAA.txt
+feature5 AAAA.txt
